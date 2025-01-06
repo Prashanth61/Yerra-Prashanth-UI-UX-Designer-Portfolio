@@ -14,7 +14,7 @@ body{
     padding: 0px ;
     box-sizing: border-box;
     background-color:rgb(43,42,42);
-    overflow:hidden;
+    overflow:none;
     text-wrap: wrap;
     display: flex;
     justify-content: center;
