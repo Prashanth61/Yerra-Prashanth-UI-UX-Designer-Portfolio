@@ -254,22 +254,16 @@ header{
     transition: 0.2s linear;
 }
 
-.social-links .twitter:hover{
+.social-links .linkedin:hover{
     color: white;
     scale: 1.3;
-    background-color: #1da1f2;
+    background-color: #0077B5;
     filter: drop-shadow(0 0 10px #077b32);
 }
-.social-links .facebook:hover{
+.social-links .behance:hover{
     color: white;
     scale: 1.3;
     background-color: #316ff6;
-    filter: drop-shadow(0 0 10px #077b32);
-}
-.social-links .instagram:hover{
-    color: white;
-    scale: 1.3;
-    background-color: #d62976;
     filter: drop-shadow(0 0 10px #077b32);
 }
 
