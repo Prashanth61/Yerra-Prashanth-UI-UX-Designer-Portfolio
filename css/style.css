@@ -221,17 +221,14 @@ header{
     0%{
         margin-top: 0;
     }
-    25%{
+    34%{
         margin-top: -45px;
     }
-    50%{
+    68%{
         margin-top: -90px;
     }
-    75%{
-        margin-top: -135px;
-    }
     100%{
-        margin-top: -180px;
+        margin-top: -135px;
     }
 }
 
