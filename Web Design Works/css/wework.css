@@ -14,13 +14,17 @@ h1{
     text-align: center;
     color: #077b32;
 }
+h2{
+    text-align: center;
+    color: #077b32;
+    text-decoration: underline;
+}
 .works{
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     column-gap: 30px;
-    row-gap: 30px;
 }
 
 .bootstrap{
@@ -68,4 +72,12 @@ img{
     background-color: #077b32;
     padding: 10px 20px;
     margin: 20px;
+}
+.websites-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    column-gap: 30px;
+    row-gap: 30px;
 }
